@@ -94,7 +94,7 @@ ol {
 
 .content__video-card-thumbnail {
   width: 194px;
-  min-height: 103px;
+  height: 103px;
   object-fit: cover;
 }
 
